@@ -14,10 +14,10 @@ __PRESTASHOP__
 1.  Fichier theme.css pour modifier les couleurs de votre site. ( Web et Plus )
 
 
-2.  fichier head.tpl pour modifier la balise <head> de votre boutique et installer Google Tag Manager. ( Webbax )
+2.  Fichier head.tpl pour modifier la balise <head> de votre boutique et installer Google Tag Manager. ( Webbax )
 
 
-3.  fichier layout-both-columns.tpl pour modifier la balise <body> de votre boutique et installer la suite de Google Tag Manager.
+3.  Fichier layout-both-columns.tpl pour modifier la balise <body> de votre boutique et installer la suite de Google Tag Manager.
 
 
 ----------------------------------------------------
