@@ -21,3 +21,65 @@ __PRESTASHOP__
 
 
 ----------------------------------------------------
+
+
+(* Modification de la Boutique le 30.02.2022 *)
+
+
+-----------------------------------------------------
+
+
+# Pour modifier les couleurs de votre botuique suivez les étapes 
+
+
+
+->Chemin racine->prestashop/modules/
+
+
+1.  Copier et coller le *Dossier* ps_sreachbar
+
+
+
+2.  Ex chemin->thèmes/classic/modules
+    Tout dépend du thème que vous avez installé.
+
+
+
+3.  Supprimer tous les fichiers à l'intérieur sauf ps_sreachbar.css
+    (* Document de feuille de style en cascade *)
+    
+    
+
+4.  Ouvrir le fichier supprimer les deux premières ligne 
+    #header, #header, .header-top {
+    Background-color: white;
+    
+    
+---------------------------------------------------------------
+
+    
+# Modifier ensuite le fichier thèmes.css
+    
+    
+---------------------------------------------------------------------  
+
+
+Chemin->prestashop/thèmes/classic/assets/css/
+
+
+1.  Décompresser le fichier thèmes.css avec https://unminify.com/
+
+   *Cliquez sur Browse pour télécharger votre fichier,
+   
+   *Récupérez le fichier thèmes.css et cliquez sur Unminify pour le décompresser
+   
+   *Download pour le récupérer et le remplacer par celui qui est déjà installé,
+   
+   *(solution mettre un underscore _ devant pour le garder par précaution.)
+   
+   
+2.  Ouvrir le fichier pour modifier le header,footer,wrapper.   
+    
+    
+    
+    
