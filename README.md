@@ -85,7 +85,7 @@ Chemin->prestashop/thèmes/classic/assets/css/
 2.Ouvrir le fichier thèmes.css pour modifier le Header, Wrapper et Footer.  
 
 
-  *Ligne 11068 Background : ( #fff ) choisir la couleur désirée Ex: extension ColorPick Eyedropper chrome
+  *Ligne 11068 Background : ( #fff ) choisir la couleur désirée Ex: extension ColorPick Eyedropper sur Google Chrome
   
   *Ligne 11230 Background : ( #f6f6f6 ) même procéder, n'oubliez pas le dièse
   
