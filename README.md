@@ -69,6 +69,7 @@ Chemin->prestashop/thèmes/classic/assets/css/
 
 1.Décompresser le fichier thèmes.css avec https://unminify.com/
 
+
    *Cliquez sur Browse pour télécharger votre fichier,
    
    *Récupérez le fichier thèmes.css et cliquez sur Unminify pour le décompresser
@@ -78,8 +79,19 @@ Chemin->prestashop/thèmes/classic/assets/css/
    *(solution mettre un underscore _ devant pour le garder par précaution.)
    
    
-2.Ouvrir le fichier pour modifier le header,footer,wrapper.   
-    
+   ------------------------------------------------------------------------------------------
+   
+   
+2.Ouvrir le fichier thèmes.css pour modifier le Header, Wrapper et Footer.  
+
+
+  *Ligne 11068 Background : ( #fff ) choisir la couleur désirée Ex: extension ColorPick Eyedropper chrome
+  
+  *Ligne 11230 Background : ( #f6f6f6 ) même procéder, n'oubliez pas le dièse
+  
+  *Ligne 10551 au bout du point virgule, cliquez, espace et entrez manuellement Background : ( code couleurs )
+  
+ 
     
     
     
