@@ -29,7 +29,7 @@ __PRESTASHOP__
 -----------------------------------------------------
 
 
-# Pour modifier les couleurs de votre botuique suivez les étapes 
+# Pour modifier les couleurs de votre boutique suivez les étapes 
 
 
 
